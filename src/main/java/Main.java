@@ -33,4 +33,9 @@ public class Main {
     public void setSad(int sad) {
         this.sad = sad;
     }
+
+    public Main(int happy, int sad) {
+        this.happy = happy;
+        this.sad = sad;
+    }
 }
