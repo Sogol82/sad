@@ -14,4 +14,7 @@ public class Main {
     void sorry() {
         System.out.println("sorry");
     }
+
+    int happy;
+    int sad;
 }
