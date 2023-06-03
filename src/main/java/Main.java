@@ -6,4 +6,8 @@ public class Main {
     int calculate(int x) {
        return x*2;
     }
+
+    void hello() {
+        System.out.println("hello");
+    }
 }
