@@ -25,4 +25,12 @@ public class Main {
     public int getSad() {
         return sad;
     }
+
+    public void setHappy(int happy) {
+        this.happy = happy;
+    }
+
+    public void setSad(int sad) {
+        this.sad = sad;
+    }
 }
