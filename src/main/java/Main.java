@@ -10,4 +10,8 @@ public class Main {
     void hello() {
         System.out.println("hello");
     }
+
+    void sorry() {
+        System.out.println("sorry");
+    }
 }
