@@ -17,4 +17,12 @@ public class Main {
 
     int happy;
     int sad;
+
+    public int getHappy() {
+        return happy;
+    }
+
+    public int getSad() {
+        return sad;
+    }
 }
